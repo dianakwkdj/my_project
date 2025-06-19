@@ -1,0 +1,16 @@
+{
+    "smtp": {
+        "host": "smtp.yandex.ru",
+        "port": 465,
+        "user": "anastasi.antipova@yandex.ru",
+        "password": "opqtypbtzinokxup",
+        "ssl": true
+    },
+    "server": {
+        "port": 33337
+    },
+    "database": {
+        "path": "/Users/anastasiaantipova/my_project/server/src/build/mac-Debug/server.db",
+        "connection_name": "SERVER_DB_CONN"
+    }
+}
